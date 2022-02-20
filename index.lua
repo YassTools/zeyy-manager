@@ -28,7 +28,7 @@ HHHHHHHHH     HHHHHHHHH    eeeeeeeeeeeeee llllllllp::::::pppppppp
                                                  p:::::::p           
                                                  ppppppppp           
                                                                      
- ~ This script has been scripted by Zeyy. ~
+ ~ This script has been scripted by Zeyy ~
 
 
 - To setup your bot please take a look in the settings part. [line.74]

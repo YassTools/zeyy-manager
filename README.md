@@ -34,6 +34,11 @@ Take a look to the script and search for line 72 you will find a variable with '
 
 `local prefix = '!'`
 
+#### Which executor support this script?
+
+This script is only supported by KRNL and SynapseX for the moment.
+
+
 
 #### What are the command that this scripter offers?
 

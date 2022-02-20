@@ -79,6 +79,9 @@ This script is only supported by KRNL and SynapseX for the moment.
 - I have been scripting for over 2years!
 - The first script i've made was a Lumber Tycoon 2 script, its Showcase has over 150K views on YouTube
 
+🥤Buy me a coffee : 
+
+https://www.buymeacoffee.com/Zeyy
 
 ## 🛠 Skills
 Javascript, PHP, LUA...
